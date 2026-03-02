@@ -103,7 +103,7 @@ export const siteConfig = {
     },
     {
       school: "SIT Graduate Institute (USA)",
-      degree: "TESOL Certificate — Full Scholarship",
+      degree: "TESOL Certificate",
       dateRange: "2023",
       achievements: [
         "Won scholarship for Best Practices in TESOL Course",
