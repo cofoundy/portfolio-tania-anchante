@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Tania Anchante Soto",
+  name: "Tania",
   title: "Academic Consultant & English Instructor",
   description: "Portfolio of Tania Anchante Soto — Academic Consultant at Macmillan Education and English Instructor with Cambridge C1 certification, TESOL scholarship, and 8+ years of teaching experience.",
   accentColor: "#1e40af",
@@ -7,9 +7,9 @@ export const siteConfig = {
     email: "tania271814@gmail.com",
   },
   aboutMe:
-    "English instructor and Academic Consultant with 8+ years of experience in the educational field. Currently working at Macmillan Education providing academic support to teachers, and teaching English at Universidad del Pacífico. I hold a Cambridge C1 Advanced certification (Grade B) and a TESOL Certificate from SIT Graduate Institute on a full scholarship. Selected for the Aspire Leaders program supported by Harvard University faculty. Passionate about helping others develop their English communication skills through innovative methodologies and digital tools.",
+    "English instructor and Academic Consultant with 8+ years of experience in the educational field. I hold a Cambridge C1 Advanced certification (Grade B) and a TESOL Certificate from SIT Graduate Institute. Selected for the Aspire Leaders program supported by Harvard University faculty. Passionate about helping others develop their English communication skills through innovative methodologies and digital tools.",
   skills: [
-    "English Teaching (C1 Advanced)",
+    "Language Teaching",
     "Academic Consulting",
     "Teacher Training",
     "Lesson Planning",
@@ -47,7 +47,7 @@ export const siteConfig = {
     {
       company: "Macmillan Education",
       title: "Academic Consultant",
-      dateRange: "Mar 2024 – Present",
+      dateRange: "",
       bullets: [
         "Provide academic support to English teachers on Macmillan materials and methodologies",
         "Conduct workshops and demo classes for schools and institutions nationwide",
@@ -56,8 +56,8 @@ export const siteConfig = {
     },
     {
       company: "Universidad del Pacífico — Language Center",
-      title: "English Teacher",
-      dateRange: "Dec 2025 – Present",
+      title: "",
+      dateRange: "",
       bullets: [
         "Teach English courses (Communication Level, Tots, Juniors) focusing on communicative competence",
         "Design classroom activities and incorporate digital tools for interactive learning",
@@ -65,8 +65,8 @@ export const siteConfig = {
     },
     {
       company: "Universidad Continental — Language Center",
-      title: "English Teacher",
-      dateRange: "Apr 2025 – Dec 2025",
+      title: "",
+      dateRange: "",
       bullets: [
         "Taught English to undergraduate students aligned with CEFR standards",
         "Designed lesson plans and assessed performance through formative and summative tools",
@@ -74,17 +74,17 @@ export const siteConfig = {
     },
     {
       company: "ICPNA",
-      title: "Assistant Teacher",
-      dateRange: "Feb 2024 – Jan 2026",
+      title: "",
+      dateRange: "",
       bullets: [
-        "Assisted lead teachers in managing classroom activities at Lima Norte Satélite",
+        "Assisted teachers in managing classroom activities at Lima Norte Satélite",
         "Monitored student behavior ensuring a safe and engaging learning environment",
       ],
     },
     {
       company: "Structures College",
-      title: "English Teacher",
-      dateRange: "Mar 2017 – Dec 2020",
+      title: "",
+      dateRange: "",
       bullets: [
         "Taught Math, Science and Social Studies using CLIL Methodology for 4 years",
         "Facilitated student autonomy through adaptive teaching methodologies",
@@ -94,7 +94,7 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "Escuela de Educación Superior Pedagógica Pública Monterrico",
+      school: "Escuela de Educación Superior Pedagógico Monterrico",
       degree: "Education — Language Specialization (Idiomas)",
       dateRange: "",
       achievements: [
@@ -104,19 +104,10 @@ export const siteConfig = {
     {
       school: "SIT Graduate Institute (USA)",
       degree: "TESOL Certificate",
-      dateRange: "2023",
+      dateRange: "",
       achievements: [
         "Won scholarship for Best Practices in TESOL Course",
         "Offered through EIL Ecuador, issued by accredited American graduate university",
-      ],
-    },
-    {
-      school: "Cambridge English",
-      degree: "C1 Advanced (CAE) — Grade B | B2 First (FCE) — Grade B",
-      dateRange: "2024",
-      achievements: [
-        "CAE Overall Score: 194 (C1 level) — Speaking: 204, Use of English: 210",
-        "FCE Overall Score: 176 (B2 level)",
       ],
     },
     {
